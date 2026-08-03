@@ -38,7 +38,7 @@
     {
       "date": "2025-08-10",
       "count": 2,
-      "level": 4
+      "level": 3
     },
     {
       "date": "2025-08-11",
@@ -388,7 +388,7 @@
     {
       "date": "2025-10-19",
       "count": 2,
-      "level": 4
+      "level": 3
     },
     {
       "date": "2025-10-20",
@@ -1223,7 +1223,7 @@
     {
       "date": "2026-04-04",
       "count": 2,
-      "level": 4
+      "level": 3
     },
     {
       "date": "2026-04-05",
@@ -1693,7 +1693,7 @@
     {
       "date": "2026-07-07",
       "count": 2,
-      "level": 4
+      "level": 3
     },
     {
       "date": "2026-07-08",
@@ -1822,13 +1822,18 @@
     },
     {
       "date": "2026-08-02",
-      "count": 2,
+      "count": 3,
+      "level": 4
+    },
+    {
+      "date": "2026-08-03",
+      "count": 10,
       "level": 4
     }
   ],
   "stats": {
-    "total_last_year": 58,
-    "current_streak": 1,
+    "total_last_year": 69,
+    "current_streak": 2,
     "longest_streak": 3,
     "best_day": {
       "date": "2026-05-09",
@@ -1885,7 +1890,7 @@
       },
       {
         "month": "2026-08",
-        "count": 2
+        "count": 13
       }
     ]
   }
